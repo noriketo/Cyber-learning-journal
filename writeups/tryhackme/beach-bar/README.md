@@ -1,14 +1,3 @@
----
-# yaml-language-server: $schema=schemas\page.schema.json
-Object type:
-    - Page
-Backlinks:
-    - writeupsctf
-Creation date: "2026-07-31T18:31:50Z"
-Created by:
-    - Sharp Scarlet
-id: bafyreietidm6rhwe23kvgqdppjvsvebc36wgv34hw4b4okcbpgabbhso6a
----
 # THM_Hollidays-5-Beach_Bar
 Internet
 │
