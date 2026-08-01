@@ -9,8 +9,3 @@ Repositorio donde documento mi aprendizaje en ciberseguridad mediante laboratori
 - Documentar mi progreso.
 - Crear un portfolio técnico.
 
-## Writeups
-
-### TryHackMe
-
-- ✅ Beach Bar
